@@ -5,7 +5,7 @@ export default function Header() {
               St. Matthias Youth Valentine 2026
             </h1>
             <h2 className="text-xl md:text-3xl font-sans font-black italic text-transparent bg-clip-text bg-gradient-to-r from-red-200 via-white to-red-200 uppercase tracking-widest drop-shadow-md pb-2">
-               Love in its Purest Form
+               Love in it's Purest Form
             </h2>
             <p className="text-sm md:text-base font-serif text-white/80 mt-2">
                 St. Matthias Anglican Church, Owode-Onirin
